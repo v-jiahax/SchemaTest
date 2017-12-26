@@ -1,23 +1,6 @@
 {
   "build_entry_point": "docs",
-  "docsets_to_publish": [
-    {
-      "docset_name": "SchemaTest",
-      "build_source_folder": "SchemaTest",
-      "build_output_subfolder": "SchemaTest",
-      "locale": "en-us",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    }
-  ],
+  "docsets_to_publish": [],
   "notification_subscribers": [],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
